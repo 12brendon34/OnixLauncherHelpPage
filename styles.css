@@ -1,0 +1,24 @@
+#container {
+  width: 500px;
+  height: 400px;
+  padding: 0px;
+  margin-top: -20px;
+  overflow: auto;
+  position: relative;
+}
+
+body {
+  scrollbar-face-color:   rgb(50, 50, 53);
+  scrollbar-track-color:  rgb(38, 38, 41);
+  scrollbar-arrow-color:  rgb(125, 125, 128);
+  scrollbar-shadow-color: rgb(50, 50, 53);
+
+  background-color: #2B2B2E;
+}
+h1, h2, h3, h4, h5, h6, p  {
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+h1 {
+  font-family: "Segoe UI", Arial, sans-serif;
+  margin-top: 20px;
+}
