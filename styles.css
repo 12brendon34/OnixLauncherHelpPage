@@ -13,7 +13,7 @@ body {
   scrollbar-arrow-color:  rgb(125, 125, 128);
   scrollbar-shadow-color: rgb(50, 50, 53);
 
-  background-color: #2B2B2E;
+  background-color: rgb(26, 26, 26);
 }
 h1, h2, h3, h4, h5, h6, p  {
   font-family: "Segoe UI", Arial, sans-serif;
